@@ -1,0 +1,101 @@
+state,district,tehsil,pincode,resource_type,name,address,contact,map_link,distance_km,capacity,availability,priority_score
+Maharashtra,Mumbai,City,381262,Ambulance,Ambulance 1,"City Area, Mumbai, Maharashtra",9.1736E+11,https://maps.google.com,1.84,187,1,0.34
+Gujarat,Surat,West,395174,Ambulance,Ambulance 2,"West Area, Surat, Gujarat",9.18167E+11,https://maps.google.com,5.94,50,0,0.63
+Rajasthan,Pune,East,506440,Fire Station,Fire Station 3,"East Area, Pune, Rajasthan",9.1992E+11,https://maps.google.com,1.71,98,0,0.63
+Maharashtra,Jaipur,North,500760,Ambulance,Ambulance 4,"North Area, Jaipur, Maharashtra",9.17946E+11,https://maps.google.com,6.86,100,1,0.91
+Rajasthan,Ahmedabad,North,380481,Fire Station,Fire Station 5,"North Area, Ahmedabad, Rajasthan",9.19141E+11,https://maps.google.com,13.09,79,1,0.88
+Maharashtra,Ahmedabad,City,416380,Hospital,Hospital 6,"City Area, Ahmedabad, Maharashtra",9.17876E+11,https://maps.google.com,4.31,131,1,0.64
+Maharashtra,Jaipur,East,492485,Ambulance,Ambulance 7,"East Area, Jaipur, Maharashtra",9.19637E+11,https://maps.google.com,13.08,48,0,0.62
+Rajasthan,Pune,South,427875,Hospital,Hospital 8,"South Area, Pune, Rajasthan",9.19361E+11,https://maps.google.com,11.13,189,0,0.56
+Rajasthan,Ahmedabad,East,540462,Hospital,Hospital 9,"East Area, Ahmedabad, Rajasthan",9.1769E+11,https://maps.google.com,5.5,83,0,0.85
+Gujarat,Jaipur,North,382448,Police Station,Police Station 10,"North Area, Jaipur, Gujarat",9.18239E+11,https://maps.google.com,12.33,63,0,0.99
+Maharashtra,Vadodara,West,524905,Ambulance,Ambulance 11,"West Area, Vadodara, Maharashtra",9.17755E+11,https://maps.google.com,14.78,179,1,0.6
+Maharashtra,Surat,South,447537,Fire Station,Fire Station 12,"South Area, Surat, Maharashtra",9.17706E+11,https://maps.google.com,2.85,199,0,0.44
+Gujarat,Pune,West,475971,Hospital,Hospital 13,"West Area, Pune, Gujarat",9.18219E+11,https://maps.google.com,6.03,116,0,0.37
+Maharashtra,Vadodara,East,457697,Fire Station,Fire Station 14,"East Area, Vadodara, Maharashtra",9.19346E+11,https://maps.google.com,1.51,134,1,0.37
+Rajasthan,Surat,South,408801,Police Station,Police Station 15,"South Area, Surat, Rajasthan",9.19193E+11,https://maps.google.com,7.02,34,1,0.71
+Gujarat,Pune,South,514040,Ambulance,Ambulance 16,"South Area, Pune, Gujarat",9.1954E+11,https://maps.google.com,0.81,31,0,0.67
+Rajasthan,Pune,City,423544,Ambulance,Ambulance 17,"City Area, Pune, Rajasthan",9.18795E+11,https://maps.google.com,2.21,19,0,0.68
+Gujarat,Surat,City,497671,Ambulance,Ambulance 18,"City Area, Surat, Gujarat",9.17532E+11,https://maps.google.com,1.14,41,1,0.89
+Rajasthan,Pune,North,496461,Police Station,Police Station 19,"North Area, Pune, Rajasthan",9.18689E+11,https://maps.google.com,14.5,169,0,0.41
+Gujarat,Ahmedabad,North,409454,Ambulance,Ambulance 20,"North Area, Ahmedabad, Gujarat",9.19439E+11,https://maps.google.com,7.25,99,1,0.66
+Maharashtra,Vadodara,North,422293,Police Station,Police Station 21,"North Area, Vadodara, Maharashtra",9.18213E+11,https://maps.google.com,6.71,22,1,0.68
+Rajasthan,Vadodara,South,429872,Fire Station,Fire Station 22,"South Area, Vadodara, Rajasthan",9.19019E+11,https://maps.google.com,7.27,23,1,0.95
+Maharashtra,Pune,West,526810,Hospital,Hospital 23,"West Area, Pune, Maharashtra",9.17541E+11,https://maps.google.com,9.2,69,0,0.39
+Gujarat,Surat,West,505005,Police Station,Police Station 24,"West Area, Surat, Gujarat",9.19209E+11,https://maps.google.com,8.94,83,1,0.59
+Maharashtra,Ahmedabad,West,404374,Fire Station,Fire Station 25,"West Area, Ahmedabad, Maharashtra",9.17258E+11,https://maps.google.com,14.52,81,0,0.57
+Rajasthan,Mumbai,West,391156,Ambulance,Ambulance 26,"West Area, Mumbai, Rajasthan",9.19392E+11,https://maps.google.com,6.22,43,0,0.94
+Gujarat,Mumbai,South,490426,Fire Station,Fire Station 27,"South Area, Mumbai, Gujarat",9.19543E+11,https://maps.google.com,8.42,28,0,0.61
+Gujarat,Pune,North,390003,Police Station,Police Station 28,"North Area, Pune, Gujarat",9.19304E+11,https://maps.google.com,14.98,147,1,0.98
+Gujarat,Surat,South,462904,Ambulance,Ambulance 29,"South Area, Surat, Gujarat",9.17401E+11,https://maps.google.com,2.44,34,1,0.72
+Rajasthan,Surat,East,444768,Ambulance,Ambulance 30,"East Area, Surat, Rajasthan",9.19823E+11,https://maps.google.com,2.01,126,0,0.73
+Rajasthan,Mumbai,West,515637,Fire Station,Fire Station 31,"West Area, Mumbai, Rajasthan",9.19342E+11,https://maps.google.com,8.86,119,0,0.34
+Gujarat,Jaipur,East,445165,Hospital,Hospital 32,"East Area, Jaipur, Gujarat",9.19213E+11,https://maps.google.com,1.28,44,1,0.4
+Gujarat,Mumbai,West,507074,Ambulance,Ambulance 33,"West Area, Mumbai, Gujarat",9.19445E+11,https://maps.google.com,10.71,130,0,0.7
+Maharashtra,Vadodara,East,421582,Police Station,Police Station 34,"East Area, Vadodara, Maharashtra",9.18451E+11,https://maps.google.com,9.14,100,1,0.34
+Gujarat,Surat,East,411869,Police Station,Police Station 35,"East Area, Surat, Gujarat",9.19201E+11,https://maps.google.com,2.31,71,0,0.67
+Rajasthan,Jaipur,City,470456,Police Station,Police Station 36,"City Area, Jaipur, Rajasthan",9.18721E+11,https://maps.google.com,11.73,22,1,0.9
+Gujarat,Ahmedabad,North,467902,Police Station,Police Station 37,"North Area, Ahmedabad, Gujarat",9.17715E+11,https://maps.google.com,12.84,95,0,0.67
+Rajasthan,Vadodara,South,551193,Ambulance,Ambulance 38,"South Area, Vadodara, Rajasthan",9.18529E+11,https://maps.google.com,5.21,87,0,0.44
+Maharashtra,Surat,South,498593,Ambulance,Ambulance 39,"South Area, Surat, Maharashtra",9.18049E+11,https://maps.google.com,8.77,159,0,0.95
+Gujarat,Jaipur,South,468205,Ambulance,Ambulance 40,"South Area, Jaipur, Gujarat",9.19036E+11,https://maps.google.com,10.39,66,0,0.77
+Rajasthan,Vadodara,East,493554,Fire Station,Fire Station 41,"East Area, Vadodara, Rajasthan",9.18785E+11,https://maps.google.com,9.2,161,1,0.32
+Rajasthan,Pune,East,389221,Police Station,Police Station 42,"East Area, Pune, Rajasthan",9.19078E+11,https://maps.google.com,4.44,190,0,0.68
+Gujarat,Vadodara,West,559533,Fire Station,Fire Station 43,"West Area, Vadodara, Gujarat",9.18223E+11,https://maps.google.com,3.9,162,0,0.32
+Gujarat,Jaipur,East,440387,Police Station,Police Station 44,"East Area, Jaipur, Gujarat",9.19264E+11,https://maps.google.com,10.11,174,1,0.73
+Gujarat,Vadodara,East,423099,Fire Station,Fire Station 45,"East Area, Vadodara, Gujarat",9.19515E+11,https://maps.google.com,6.42,35,0,0.65
+Maharashtra,Jaipur,City,403456,Police Station,Police Station 46,"City Area, Jaipur, Maharashtra",9.1923E+11,https://maps.google.com,12.37,152,1,0.36
+Rajasthan,Surat,City,539375,Fire Station,Fire Station 47,"City Area, Surat, Rajasthan",9.17914E+11,https://maps.google.com,14.14,122,1,0.81
+Rajasthan,Vadodara,South,455790,Hospital,Hospital 48,"South Area, Vadodara, Rajasthan",9.19882E+11,https://maps.google.com,5.51,24,0,0.51
+Gujarat,Jaipur,South,421182,Fire Station,Fire Station 49,"South Area, Jaipur, Gujarat",9.17913E+11,https://maps.google.com,3.22,72,1,0.82
+Gujarat,Surat,City,424807,Fire Station,Fire Station 50,"City Area, Surat, Gujarat",9.19577E+11,https://maps.google.com,1.17,121,1,0.92
+Gujarat,Ahmedabad,West,430196,Police Station,Police Station 51,"West Area, Ahmedabad, Gujarat",9.19848E+11,https://maps.google.com,9.75,157,0,0.55
+Maharashtra,Surat,South,524861,Ambulance,Ambulance 52,"South Area, Surat, Maharashtra",9.18481E+11,https://maps.google.com,4.31,190,1,0.58
+Maharashtra,Pune,West,472050,Hospital,Hospital 53,"West Area, Pune, Maharashtra",9.17569E+11,https://maps.google.com,8.91,5,0,0.7
+Gujarat,Mumbai,South,505949,Police Station,Police Station 54,"South Area, Mumbai, Gujarat",9.18383E+11,https://maps.google.com,0.81,97,1,0.94
+Gujarat,Jaipur,City,435142,Fire Station,Fire Station 55,"City Area, Jaipur, Gujarat",9.18102E+11,https://maps.google.com,6.87,57,0,0.47
+Rajasthan,Vadodara,East,542288,Hospital,Hospital 56,"East Area, Vadodara, Rajasthan",9.17439E+11,https://maps.google.com,1.15,96,1,0.46
+Rajasthan,Ahmedabad,North,380288,Fire Station,Fire Station 57,"North Area, Ahmedabad, Rajasthan",9.19007E+11,https://maps.google.com,13.04,70,1,0.7
+Gujarat,Vadodara,City,536728,Hospital,Hospital 58,"City Area, Vadodara, Gujarat",9.18323E+11,https://maps.google.com,11.19,22,0,0.42
+Rajasthan,Mumbai,North,381169,Hospital,Hospital 59,"North Area, Mumbai, Rajasthan",9.19673E+11,https://maps.google.com,13.59,110,1,0.76
+Gujarat,Surat,West,503403,Ambulance,Ambulance 60,"West Area, Surat, Gujarat",9.18995E+11,https://maps.google.com,5.43,131,1,0.86
+Gujarat,Surat,North,438342,Hospital,Hospital 61,"North Area, Surat, Gujarat",9.19893E+11,https://maps.google.com,12.01,144,1,0.89
+Maharashtra,Vadodara,East,463224,Fire Station,Fire Station 62,"East Area, Vadodara, Maharashtra",9.18086E+11,https://maps.google.com,3.45,87,0,0.48
+Rajasthan,Jaipur,West,517188,Fire Station,Fire Station 63,"West Area, Jaipur, Rajasthan",9.1945E+11,https://maps.google.com,14.38,38,0,0.75
+Maharashtra,Pune,East,558828,Ambulance,Ambulance 64,"East Area, Pune, Maharashtra",9.19694E+11,https://maps.google.com,14.29,180,0,0.36
+Rajasthan,Mumbai,East,398721,Ambulance,Ambulance 65,"East Area, Mumbai, Rajasthan",9.19705E+11,https://maps.google.com,6.28,35,1,0.38
+Rajasthan,Mumbai,North,437850,Ambulance,Ambulance 66,"North Area, Mumbai, Rajasthan",9.17378E+11,https://maps.google.com,7.52,6,1,0.83
+Gujarat,Mumbai,East,491212,Hospital,Hospital 67,"East Area, Mumbai, Gujarat",9.17907E+11,https://maps.google.com,1.57,190,1,0.32
+Gujarat,Surat,East,524811,Police Station,Police Station 68,"East Area, Surat, Gujarat",9.18028E+11,https://maps.google.com,9.81,61,1,0.68
+Maharashtra,Mumbai,West,547126,Fire Station,Fire Station 69,"West Area, Mumbai, Maharashtra",9.17879E+11,https://maps.google.com,5.79,164,0,0.44
+Rajasthan,Pune,City,518854,Hospital,Hospital 70,"City Area, Pune, Rajasthan",9.18945E+11,https://maps.google.com,3.48,20,1,0.5
+Maharashtra,Surat,North,526377,Fire Station,Fire Station 71,"North Area, Surat, Maharashtra",9.17358E+11,https://maps.google.com,13.79,109,0,0.43
+Gujarat,Surat,City,392752,Ambulance,Ambulance 72,"City Area, Surat, Gujarat",9.17324E+11,https://maps.google.com,14.02,16,0,0.71
+Rajasthan,Surat,South,526932,Police Station,Police Station 73,"South Area, Surat, Rajasthan",9.19592E+11,https://maps.google.com,12.62,25,0,0.84
+Maharashtra,Vadodara,South,537044,Fire Station,Fire Station 74,"South Area, Vadodara, Maharashtra",9.17006E+11,https://maps.google.com,11.95,69,0,0.36
+Maharashtra,Jaipur,East,399216,Ambulance,Ambulance 75,"East Area, Jaipur, Maharashtra",9.19634E+11,https://maps.google.com,14.78,123,0,0.74
+Rajasthan,Jaipur,West,467476,Ambulance,Ambulance 76,"West Area, Jaipur, Rajasthan",9.17857E+11,https://maps.google.com,10.33,165,0,0.67
+Gujarat,Ahmedabad,North,504469,Fire Station,Fire Station 77,"North Area, Ahmedabad, Gujarat",9.18038E+11,https://maps.google.com,4.74,156,1,0.31
+Maharashtra,Ahmedabad,South,452653,Ambulance,Ambulance 78,"South Area, Ahmedabad, Maharashtra",9.18199E+11,https://maps.google.com,9.19,8,0,0.73
+Maharashtra,Jaipur,City,406420,Hospital,Hospital 79,"City Area, Jaipur, Maharashtra",9.1829E+11,https://maps.google.com,7.98,186,0,0.34
+Gujarat,Vadodara,East,554601,Hospital,Hospital 80,"East Area, Vadodara, Gujarat",9.17454E+11,https://maps.google.com,10.09,21,0,0.53
+Gujarat,Surat,City,390944,Ambulance,Ambulance 81,"City Area, Surat, Gujarat",9.18692E+11,https://maps.google.com,1.61,7,1,0.62
+Maharashtra,Mumbai,East,472634,Ambulance,Ambulance 82,"East Area, Mumbai, Maharashtra",9.17043E+11,https://maps.google.com,12.68,36,1,0.46
+Gujarat,Ahmedabad,South,387556,Fire Station,Fire Station 83,"South Area, Ahmedabad, Gujarat",9.1753E+11,https://maps.google.com,14.88,123,1,0.43
+Gujarat,Pune,City,449089,Ambulance,Ambulance 84,"City Area, Pune, Gujarat",9.17099E+11,https://maps.google.com,9.06,115,1,0.91
+Rajasthan,Pune,North,512588,Ambulance,Ambulance 85,"North Area, Pune, Rajasthan",9.17105E+11,https://maps.google.com,2.5,25,1,0.95
+Maharashtra,Jaipur,West,392068,Ambulance,Ambulance 86,"West Area, Jaipur, Maharashtra",9.17769E+11,https://maps.google.com,14.58,153,0,0.93
+Gujarat,Pune,West,452526,Fire Station,Fire Station 87,"West Area, Pune, Gujarat",9.19165E+11,https://maps.google.com,1.78,57,1,0.34
+Gujarat,Mumbai,City,399406,Ambulance,Ambulance 88,"City Area, Mumbai, Gujarat",9.17848E+11,https://maps.google.com,5.53,88,0,0.34
+Maharashtra,Mumbai,East,516062,Police Station,Police Station 89,"East Area, Mumbai, Maharashtra",9.1974E+11,https://maps.google.com,10.52,122,1,0.52
+Rajasthan,Surat,West,412749,Ambulance,Ambulance 90,"West Area, Surat, Rajasthan",9.19673E+11,https://maps.google.com,3.18,18,0,0.66
+Rajasthan,Jaipur,East,498649,Hospital,Hospital 91,"East Area, Jaipur, Rajasthan",9.19498E+11,https://maps.google.com,11.81,112,1,0.31
+Gujarat,Pune,South,422454,Police Station,Police Station 92,"South Area, Pune, Gujarat",9.18381E+11,https://maps.google.com,10.93,8,0,0.92
+Rajasthan,Pune,West,461415,Ambulance,Ambulance 93,"West Area, Pune, Rajasthan",9.17212E+11,https://maps.google.com,3.34,35,0,0.49
+Gujarat,Pune,City,382764,Police Station,Police Station 94,"City Area, Pune, Gujarat",9.18721E+11,https://maps.google.com,2.78,197,0,0.65
+Rajasthan,Jaipur,South,540375,Ambulance,Ambulance 95,"South Area, Jaipur, Rajasthan",9.1917E+11,https://maps.google.com,5.36,12,1,0.95
+Maharashtra,Pune,City,532693,Fire Station,Fire Station 96,"City Area, Pune, Maharashtra",9.19644E+11,https://maps.google.com,3.33,184,1,0.82
+Maharashtra,Pune,North,438814,Police Station,Police Station 97,"North Area, Pune, Maharashtra",9.18819E+11,https://maps.google.com,0.74,96,0,0.82
+Rajasthan,Mumbai,North,455081,Fire Station,Fire Station 98,"North Area, Mumbai, Rajasthan",9.18202E+11,https://maps.google.com,12.84,98,0,0.38
+Gujarat,Mumbai,East,512902,Fire Station,Fire Station 99,"East Area, Mumbai, Gujarat",9.17134E+11,https://maps.google.com,1.19,86,1,0.74
+Gujarat,Mumbai,East,405832,Fire Station,Fire Station 100,"East Area, Mumbai, Gujarat",9.18716E+11,https://maps.google.com,9.34,67,1,0.31
